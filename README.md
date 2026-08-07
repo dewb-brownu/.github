@@ -1,2 +1,3 @@
 # Engineers Without Borders- Brown University
 
+We are a team of engineering students at Brown University, part of Doctors and Engineers Without Borders...
