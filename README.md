@@ -1,2 +1,2 @@
-# .github
-Engineers Without Borders- Brown University
+# Engineers Without Borders- Brown University
+
