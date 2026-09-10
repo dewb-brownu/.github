@@ -1,18 +1,19 @@
 # Engineers Without Borders- Brown University
-> GH Org is new and descriptions are WIP
+> GH Organization is new and descriptions are WIP
 
 ## Description
 We are a team of engineering students at Brown University, part of Doctors and Engineers Without Borders...
 
 ## Current Projects
+[HAEFA Nirog+ EMR]
 
 ## Contacts
-
 Directors of Engineering
 - Benjamin Jamal (Biomedical Engineering '27)
 - Nour Mousbah (Mechanical Engineering '28)
 
-
+## Interested in Joining?
+[google form link]
 <!--
 
 **Here are some ideas to get you started:**
