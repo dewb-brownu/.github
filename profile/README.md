@@ -5,7 +5,7 @@
 We are a team of engineering students at Brown University, part of Doctors and Engineers Without Borders...
 
 ## Current Projects
-[HAEFA Nirog+ EMR]
+[HAEFA Nirog+ EMR](https://dewb-brownu.github.io) (click link for more info!)
 
 ## Contacts
 Directors of Engineering
