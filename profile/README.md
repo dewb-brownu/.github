@@ -1,8 +1,7 @@
 # Engineers Without Borders- Brown University
-> GH Organization is new and descriptions are WIP
 
 ## Description
-We are a team of engineering students at Brown University, part of Doctors and Engineers Without Borders...
+We are a team of engineering students at Brown University, part of Doctors and Engineers Without Borders, working on engineering projects around the world
 
 ## Current Projects
 [HAEFA Nirog+ EMR](https://dewb-brownu.github.io) (click link for more info!)
@@ -13,14 +12,4 @@ Directors of Engineering
 - Nour Mousbah (Mechanical Engineering '28)
 
 ## Interested in Joining?
-[google form link]
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+[Fill out this form!](https://forms.gle/V2iRGmra3mKjt7Ut5)
